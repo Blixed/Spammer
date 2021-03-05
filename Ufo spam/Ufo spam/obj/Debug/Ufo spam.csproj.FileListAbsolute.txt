@@ -1,0 +1,10 @@
+C:\Users\käyttäjä\source\repos\Ufo spam\Ufo spam\bin\Debug\Ufo spam.exe.config
+C:\Users\käyttäjä\source\repos\Ufo spam\Ufo spam\bin\Debug\Ufo spam.exe
+C:\Users\käyttäjä\source\repos\Ufo spam\Ufo spam\bin\Debug\Ufo spam.pdb
+C:\Users\käyttäjä\source\repos\Ufo spam\Ufo spam\obj\Debug\Ufo spam.csprojAssemblyReference.cache
+C:\Users\käyttäjä\source\repos\Ufo spam\Ufo spam\obj\Debug\Ufo_spam.Form1.resources
+C:\Users\käyttäjä\source\repos\Ufo spam\Ufo spam\obj\Debug\Ufo_spam.Properties.Resources.resources
+C:\Users\käyttäjä\source\repos\Ufo spam\Ufo spam\obj\Debug\Ufo spam.csproj.GenerateResource.cache
+C:\Users\käyttäjä\source\repos\Ufo spam\Ufo spam\obj\Debug\Ufo spam.csproj.CoreCompileInputs.cache
+C:\Users\käyttäjä\source\repos\Ufo spam\Ufo spam\obj\Debug\Ufo spam.exe
+C:\Users\käyttäjä\source\repos\Ufo spam\Ufo spam\obj\Debug\Ufo spam.pdb
